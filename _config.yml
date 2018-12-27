@@ -1,18 +1,52 @@
-name: Dipanjan Dutta
-title: Dipanjan Dutta
-email: dipanjan.dutta@mail.mcgill.ca
-description: My personal webpage
-last_updated: 27th December, 2018
-remote_theme: pmarsceill/just-the-docs
+title: Dipanjan's webpage
+description: My personal Webpage
+author: Dipanjan Dutta
+github: https://github.com/dipanjan1311/
+about: Programmer and photographer by passion, scientist and innovator by heart
+disqus_shortname: ""
+google_analytics: ""
+avatar_url: /static/img/me.jpg
 
-github_username: dipanjan1311
-linkedin_username: dipanjandutta92
-contact_note: You can email me at my <a href="mailto:dipanjan.dutta@mail.mcgill.ca">McGill email address</a> or my <a href="mailto:dipanjandutta92@gmail.com">personal email address</a>
+enableTags: false
+tagarray: []
 
-show_social_icons: true
-enable_katex: true
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
 
-color_scheme: "dark"
-permalink: pretty
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+social:
+    - icon: fa-facebook
+      link: "https://www.facebook.com/FelixDipanjan"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/dipanjandutta92/"
+    - icon: fa-github
+      link: "https://github.com/dipanjan1311"
 
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: Publications
+      url: /pubs/
+    - text: Teaching
+      url: /teaching/
+
+url: "https://dipanjan1311.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

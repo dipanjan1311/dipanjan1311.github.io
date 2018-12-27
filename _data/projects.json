@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Towards an adaptive fine-grained framework to optimize neural networks",
+		"image": "placeholder.jpg",
+		"url": "./cohesa-poster.pdf",
+		"date": "Jul 2018",
+		"tags": ["Optimization","Floating-point"]
+	},
+	{
+		"name": "COMP551 Ablation Study: i have a feeling trump will win.................. Forecasting Winners and Losers from User Predictions on Twitter",
+		"image": "placeholder.jpg",
+		"url": "./t2-10-ablation.pdf",
+		"date": "Apr 2018",
+		"tags": ["Reproducibility","Classification","Sentiment Analysis", "Veridicality"]
+	},
+	{
+		"name": "COMP551-001 Kaggle Competition: Identifying Largest Handwritten Digit In An Image",
+		"image": "placeholder.jpg",
+		"url": "./comp551-001-kaggle.pdf",
+		"date": "Mar 2018",
+		"tags": ["Python","Classification","Neural Networks","CNN","VGGNet"]
+	},
+	{
+		"name": "Association Football: Prediction of Team Squads and Positions",
+		"image": "placeholder.jpg",
+		"date": "Dec 2017",
+		"tags": ["R","Python","Random Forest","Classification"]
+	},
+]

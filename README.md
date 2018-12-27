@@ -1,3 +1,3 @@
 # dipanjan1311.github.io
 
-Personal website
+My personal website
