@@ -11,3 +11,8 @@ contact_note: You can email me at my <a href="mailto:dipanjan.dutta@mail.mcgill.
 
 show_social_icons: true
 enable_katex: true
+
+color_scheme: "dark"
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
