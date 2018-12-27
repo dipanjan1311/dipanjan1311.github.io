@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Publications and Projects
+title: Projects
 permalink: /projects/
 ---
 
