@@ -4,6 +4,7 @@ email: dipanjan.dutta@mail.mcgill.ca
 description: My personal webpage
 theme: jekyll-theme-leap-day
 last_updated: 27th December, 2018
+remote_theme: pmarsceill/just-the-docs
 
 github_username: dipanjan1311
 linkedin_username: dipanjandutta92
