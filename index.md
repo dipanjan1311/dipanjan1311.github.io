@@ -1,3 +1,0 @@
-# Dipanjan Dutta
-
-Short bio
