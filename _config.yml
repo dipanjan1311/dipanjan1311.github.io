@@ -3,3 +3,11 @@ title: Dipanjan Dutta
 email: dipanjan.dutta@mail.mcgill.ca
 description: My personal webpage
 theme: jekyll-theme-leap-day
+last_updated: 27th December, 2018
+
+github_username: dipanjan1311
+linkedin_username: dipanjandutta92
+contact_note: You can email me at my <a href="mailto:dipanjan.dutta@mail.mcgill.ca">McGill email address</a> or my <a href="mailto:dipanjandutta92@gmail.com">personal email address</a>
+
+show_social_icons: true
+enable_katex: true
